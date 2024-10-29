@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentExample1</string>
+    <string name="learn_android_programming">Learn Android
+Programming</string>
+    <string name="learn_android_programming_with_kotlin">Learn Android
+Programming with Kotlin</string>
+    <string name="minimum_android_programming">Minimum Android
+Programming</string>
+    <string name="description">Ini adalah deskripsi teks…</string>
+</resources>
